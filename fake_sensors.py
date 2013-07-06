@@ -1,5 +1,10 @@
 import random
 
+# global related data..
+context = {
+    'shared_data': 0
+}
+
 
 class Sensor(object):
     """
